@@ -11,7 +11,7 @@ const Table = () => {
     { Task: "Task 3", RepoLink: "https://github.com/Divyanshu81/React-Task3", deplink: "https://divyanshu81.github.io/React-Task3/" },
     { Task: "Task 4", RepoLink: "https://github.com/Divyanshu81/React-Task4", deplink: "https://divyanshu81.github.io/React-Task4/" },
     { Task: "Task 5", RepoLink: "https://github.com/Divyanshu81/React-Task5", deplink: "https://divyanshu81.github.io/React-Task5/" },
-    { Task: "Task 6", RepoLink: "https://github.com/Divyanshu81/React-Task1", deplink: 22 },
+    { Task: "Task 6", RepoLink: "https://github.com/Divyanshu81/Mern-Portfolio", deplink: "https://mern-portfolio-puce.vercel.app/" },
   ];
 
   return (
